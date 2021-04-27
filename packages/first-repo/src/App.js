@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         I am the second repo here
+         I am the first repo here
         </a>
       </header>
     </div>
